@@ -1,0 +1,7 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+cout<<"Heyy!this is my github program!";
+return 0;
+}
